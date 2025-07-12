@@ -3,7 +3,7 @@ import numpy as np
 import pickle
 
 # Load the saved model and scaler
-with open('C:/Users/prudh/OneDrive/Desktop/Machine Learning/Projects/Loan Approval Prediction/loan_model.sav', 'rb') as file:
+with open('loan_model.sav', 'rb') as file:
     model = pickle.load(file)
 
 # App title
