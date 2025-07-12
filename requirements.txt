@@ -1,0 +1,6 @@
+streamlit
+xgboost
+numpy>=1.26.2,<2.0
+scikit-learn
+pandas
+streamlit-option-menu
